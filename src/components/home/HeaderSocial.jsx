@@ -8,9 +8,7 @@ const HeaderSocial = () => {
         </a>
         <a href='https://github.com/niteshrauniyar' className='home__social-link' target="_blank">
         <i class="fa-brands fa-github"></i>
-<a href="mailto:nitesh.gupta98162@gmail.com" className='home__social-link' target="_blank">
-<i class="fa-brands fa-google"></i>
-</a>
+
 
         </a>
         <a href='https://www.facebook.com/profile.php?id=100006484039379' className='home__social-link' target="_blank">
@@ -19,6 +17,10 @@ const HeaderSocial = () => {
         <a href='https://www.linkedin.com/in/nitesh-rauniyar-166077238' className='home__social-link' target="_blank">
         <i class="fa-brands fa-linkedin"></i>
         </a>
+        <a href="mailto:nitesh.gupta98162@gmail.com" className='home__social-link' target="_blank">
+<i class="fa-brands fa-google"></i>
+</a>
+
        
     </div>
   )
