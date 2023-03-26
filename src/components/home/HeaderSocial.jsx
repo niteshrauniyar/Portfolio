@@ -8,7 +8,7 @@ const HeaderSocial = () => {
         </a>
         <a href='https://github.com/niteshrauniyar' className='home__social-link' target="_blank">
         <i class="fa-brands fa-github"></i>
-<a href="mailto:nitesh.gupta98162@gmail.com">
+<a href="mailto:nitesh.gupta98162@gmail.com" className='home__social-link' target="_blank">
 <i class="fa-duotone fa-envelope"></i>
 </a>
 
