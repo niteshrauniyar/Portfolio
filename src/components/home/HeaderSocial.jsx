@@ -8,6 +8,10 @@ const HeaderSocial = () => {
         </a>
         <a href='https://github.com/niteshrauniyar' className='home__social-link' target="_blank">
         <i class="fa-brands fa-github"></i>
+<a href="mailto:nitesh.gupta98162@gmail.com">
+<i class="fa-duotone fa-envelope"></i>
+</a>
+
         </a>
         <a href='https://www.facebook.com/profile.php?id=100006484039379' className='home__social-link' target="_blank">
         <i class="fa-brands fa-facebook"></i>
